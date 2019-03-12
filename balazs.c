@@ -1,6 +1,7 @@
 
-void future()
+void future(char *p)
 {
-  cout<<"gemini"<<endl;
+  cout<<"parameter: "<<p<<endl;
 }
+
 
