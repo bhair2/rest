@@ -1,4 +1,4 @@
 void greet()
 {
-	printf("Sanyi es Zoli");
+	printf("Greetings!");
 }
