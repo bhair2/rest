@@ -7,5 +7,9 @@ int getAgeOfZoli(bool tellTheTruth, bool tellMeLies=true)
     {
       return 45;
     }
+  else if (tellMeLies && !tellTheTruth)
+  {
+     return 36;
+  }
   return 42;
 }
