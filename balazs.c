@@ -1,7 +1,6 @@
 
-void future(char *p)
+void cheer(char *who)
 {
-  cout<<"parameter: "<<p<<endl;
+   cout<<"hello "<<who<<endl;
 }
-
 
