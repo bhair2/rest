@@ -1,4 +1,9 @@
 void greet()
 {
-	printf("Sanyi es Zoli");
+	printf("Greetings!");
+}
+
+int count()
+{
+	return 9;
 }

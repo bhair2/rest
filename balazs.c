@@ -1,6 +1,6 @@
 
-void future()
+void cheer(char *when, char *who)
 {
-  cout<<"gemini"<<endl;
+   cout<<"good "<<when<<" "<<who<<endl;
 }
 
