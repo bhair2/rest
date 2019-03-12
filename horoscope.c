@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-void printHoroscopeSign(int month, const char *text)
+void printHoroscopeSign(int month, const char *text, int harmadik)
 {
-  print("%d%s", month, text);
+  print("%d%s%d", month, text, harmadik);
   switch(month)
   {
       case 0: print("Capricorn"); break;
