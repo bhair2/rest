@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-int getAgeOfZoli(bool tellTheTruth)
+int getAgeOfZoli(bool tellTheTruth=false)
 {
   if (tellTheTruth == true)
     {
