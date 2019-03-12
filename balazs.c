@@ -1,6 +1,6 @@
 
-void cheer(char *who)
+void cheer(char *when, char *who)
 {
-   cout<<"hello "<<who<<endl;
+   cout<<"good "<<when<<" "<<who<<endl;
 }
 
