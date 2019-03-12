@@ -10,3 +10,8 @@ void printHoroscopeSign(int month, const char *text, int harmadik)
       default: print("not implemented");
   }
 }
+
+void cheer()
+{
+  
+}
